@@ -7,7 +7,7 @@ class ListNode {
         this.next = null;
     }
 }
-
+// Solution for Linked List Cycle
 public class Day6LinkedListCycle {
 
     public static boolean hasCycle(ListNode head) {
