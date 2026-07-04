@@ -13,7 +13,6 @@ class ListNode {
         this.next = next;
     }
 }
-//Merge Two Sorted Lists
 
 public class Day5mergeTwoLists{
 
