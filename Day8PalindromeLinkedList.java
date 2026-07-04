@@ -46,7 +46,6 @@ public class Day8PalindromeLinkedList {
         return true;
     }
 
-    // Helper method to print the linked list
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
