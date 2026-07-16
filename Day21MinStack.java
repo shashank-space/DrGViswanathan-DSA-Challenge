@@ -35,7 +35,7 @@ public class Day21MinStack {
             return minStack.peek();
         }
     }
-
+    // Example usage
     public static void main(String[] args) {
         MinStack obj = new MinStack();
 
