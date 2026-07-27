@@ -41,8 +41,8 @@ class Day35MyStack {
         stack.push(1);
         stack.push(2);
 
-        System.out.println(stack.top());   // 2
-        System.out.println(stack.pop());   // 2
-        System.out.println(stack.empty()); // false
+        System.out.println(stack.top());    // 2
+        System.out.println(stack.pop());    // 2
+        System.out.println(stack.empty());  // false
     }
 }
